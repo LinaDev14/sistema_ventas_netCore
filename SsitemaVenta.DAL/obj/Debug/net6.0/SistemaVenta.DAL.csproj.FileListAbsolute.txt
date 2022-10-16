@@ -1,0 +1,15 @@
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SsitemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll

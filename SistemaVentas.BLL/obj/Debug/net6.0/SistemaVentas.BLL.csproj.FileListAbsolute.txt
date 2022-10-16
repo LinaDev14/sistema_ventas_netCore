@@ -1,0 +1,17 @@
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.deps.json
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.AssemblyReference.cache
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.AssemblyInfoInputs.cache
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.AssemblyInfo.cs
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.CoreCompileInputs.cache
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\refint\SistemaVentas.BLL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.pdb
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\ref\SistemaVentas.BLL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\obj\Debug\net6.0\SistemaVentas.BLL.csproj.CopyComplete
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ruta_estudio\introduccion_csharp\modulo_2\sistema_ventas\solucionSistemasDeVentas\SistemaVentas.BLL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
